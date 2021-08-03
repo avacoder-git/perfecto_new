@@ -1,0 +1,8 @@
+{
+    "require": {
+        "irazasyed/telegram-bot-sdk": "^3.4",
+      "ext-mysqli": "*",
+      "ext-mysql": "*",
+      "ext-json": "*"
+    }
+}
